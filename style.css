@@ -1,0 +1,93 @@
+ 
+.box{
+	height:600px;
+	width: 900px;
+	background: rgb(195,34,70);
+background: linear-gradient(80deg, rgba(195,34,70,1) 35%, rgba(18,51,210,1) 68%);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	text-align: center;
+}
+.but1{
+	height:50px ;
+	width: 150px;
+	background: rgb(34,195,139);
+background: linear-gradient(80deg, rgba(34,195,139,1) 35%, rgba(18,141,210,1) 65%);
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.d-flex{
+	display: flex;
+}
+.god{
+	height: 450px;
+	width: 700px;
+}
+.rounded{
+	border: 25px;
+}
+.mt{
+	margin-top:50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.gap{
+	gap: 20px;
+}
+.box2{
+	width: 700px;
+	height: 50px;
+}
+.mt2{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 1px;
+}
+.bor{
+	border-radius: 5px;
+}
+.bor2{
+	border-radius: 25px;
+}
+.p{
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.Mus{
+	height: 200px;
+	width: 400;
+	margin-left: 100px;
+	margin-right: 100px;
+	background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+.mt3{
+	margin-top: 100px;
+}
+.Em{
+	height: 200px;
+	width: 200px;
+}
+.musem{
+	margin-top: 75px;
+	margin-left: 100px;
+}
+.mt4{
+margin-top: 50px;
+}
+.col{
+	color: white;
+}
+.bot1{
+
+}
+.buton{
+	height: 50px;
+	margin-top: 50px;
+	border-radius: 5px;
+	border: none;
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
